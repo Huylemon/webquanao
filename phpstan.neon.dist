@@ -1,0 +1,20 @@
+includes:
+    - ./vendor/larastan/larastan/extension.neon
+parameters:
+    paths:
+        - .
+
+    level: 5
+
+    ignoreErrors:
+        - '#Call to an undefined method#'
+        - '#Match expression does not handle remaining value: string#'
+
+    excludePaths:
+        - tests/*
+        - vendor/*
+        - storage/*
+        - public/*
+        - node_modules/*
+
+    reportUnmatchedIgnoredErrors: false
