@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-lg-12 text-right">
                     <div class="logo_container">
-                        <a href="{{url('/')}}">TungKhanh<span>shop</span></a>
+                        <a href="{{url('/')}}">QuangHuy<span>shop</span></a>
                     </div>
                     <nav class="navbar">
                         <ul class="navbar_menu">
