@@ -5,7 +5,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="{{asset('admin/assets/img/apple-icon.png')}}">
     <link rel="icon" type="image/png" href="https://thumb.silhouette-ac.com/t/d1/d135a79d61ec5a78d3b675fdbde19617_t.jpeg">
     <title>
-      Quang Huy
+        TUNGKHANH
     </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
