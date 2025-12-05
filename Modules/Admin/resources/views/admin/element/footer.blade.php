@@ -7,14 +7,14 @@
               document.write(new Date().getFullYear())
             </script>,
             made with <i class="fa fa-heart"></i> by
-            <a href="https://www.facebook.com/profile.php?id=100005713457200" class="font-weight-bold" target="_blank">Đặng Tùng Khánh</a>
+            <a href="" class="font-weight-bold" target="_blank">Nguyễn Quang Huy</a>
             for a better web.
           </div>
         </div>
         <div class="col-lg-6">
           <ul class="nav nav-footer justify-content-center justify-content-lg-end">
             <li class="nav-item">
-              <a href="https://www.facebook.com/profile.php?id=100005713457200" class="nav-link text-muted" target="_blank">Đặng Tùng Khánh</a>
+              <a href="" class="nav-link text-muted" target="_blank">Nguyễn Quang Huy</a>
             </li>
             <li class="nav-item">
               <a href="" class="nav-link text-muted" target="_blank">About Us</a>
